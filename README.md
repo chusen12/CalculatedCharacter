@@ -1,2 +1,4 @@
 # CalculatedCharacter
 计算文件中字符个数
+CalculatedCharacter 全局Map
+CalculatedCharacter1 线程局部Map
